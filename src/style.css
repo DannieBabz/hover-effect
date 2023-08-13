@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#login-container {
+	z-index: 999;
+	background-image: url("photo-1531297484001-80022131f5a1.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: white;
+}
+#login {
+	background-color: white;
+}
